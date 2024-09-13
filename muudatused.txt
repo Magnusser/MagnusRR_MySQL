@@ -1,0 +1,5 @@
+# Comments
+
+1. Peaks äkki lisama veel course asju
+2. Course saaks teha nii, et lic paned descriptionisse ühe gruppi tunnid ja siis lisad ekstra columni kus saavad olla huviringid vms
+3. Võiks koguda asju nagu pikkus või kaal? Ma ei tea ausalt õeldes.
